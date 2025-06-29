@@ -64,7 +64,6 @@ Feel free to:
 ## 🔗 Connect
 
 - **GitHub**: [https://github.com/Amirhossein-Mp]
-//-- **LinkedIn**: [Your LinkedIn Profile]
 
 ---
 
