@@ -63,8 +63,7 @@ Feel free to:
 
 ## 🔗 Connect
 
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: [https://github.com/Amirhossein-Mp]
 
 ---
 
